@@ -38,7 +38,7 @@ W / Inventor
 
 [Learn More](http://wlang.in)
 
-[Intorduction](https://wlang.in/docs/getting-started/introduction/)
+[Introduction](https://wlang.in/docs/getting-started/introduction/)
 
 [Frequently Asked Questions](https://wlang.in/docs/help/faq/)
 
