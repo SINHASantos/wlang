@@ -37,3 +37,6 @@ W / Inventor
 [Sinha Santosh](https://www.linkedin.com/in/infosinha/)
 
 [Learn More](http://wlang.in)
+[Intorduction](https://wlang.in/docs/getting-started/introduction/)
+[Frequently Asked Questions](https://wlang.in/docs/help/faq/)
+[Quick Start](https://wlang.in/docs/getting-started/quick-start/)
