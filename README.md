@@ -26,11 +26,13 @@ W lang is high level, dynamic and compiled language. W Language compiles and tra
 
 
 
+
+****Why a new Programming Language**** 
+
 With goal to achieve better control over requirements and delivery W lang was created. W lang helps document your vision for product and or applications using Spreadsheets or notepad. 
 
 
 W / Inventor  
-SINHA Santos 
 
 [Sinha Santosh](https://www.linkedin.com/in/infosinha/)
 
