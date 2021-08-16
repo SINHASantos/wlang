@@ -1,4 +1,4 @@
-# W lang
+# W Lang
 
 W lang is 4th generation General-purpose Rapid Application Development programming language designed to accelerate the web and mobile application development. 
 
@@ -31,5 +31,7 @@ With goal to achieve better control over requirements and delivery W lang was cr
 
 W / Inventor  
 SINHA Santos 
+
+[Sinha Santosh](https://www.linkedin.com/in/infosinha/)
 
 [Learn More](http://wlang.in)
