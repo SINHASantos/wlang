@@ -38,8 +38,8 @@ W / Inventor
 
 [Learn More](http://wlang.in)
 
-[Introduction](https://wlang.in/docs/getting-started/introduction/)
+[W Lang Introduction](https://wlang.in/docs/getting-started/introduction/)
 
-[Frequently Asked Questions](https://wlang.in/docs/help/faq/)
+[W Lang Frequently Asked Questions](https://wlang.in/docs/help/faq/)
 
-[Quick Start](https://wlang.in/docs/getting-started/quick-start/)
+[W lang Quick Start](https://wlang.in/docs/getting-started/quick-start/)
