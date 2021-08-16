@@ -1,5 +1,10 @@
 # W lang
-Create APP and website faster with W Lang. W lang helps build production ready world  class enterprise application rapidly. 
+
+W lang is 4th generation General-purpose Rapit Application Development programming language designed to accelerate the web and mobile application development. 
+
+W language is great fit for enterprise and mission critical applications which demand secure and safety-critical software components. W lang offers a readymade set of components which can be customized or developers can create new component from scratch. 
+
+
 
 ****Easy to Learn**** 
 
