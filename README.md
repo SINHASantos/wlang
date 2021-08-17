@@ -1,6 +1,6 @@
 # W Lang
 
-W lang is 4th generation General-purpose Rapid Application Development programming language designed to accelerate the web and mobile application development. 
+W lang is Rapid Application Development programming language designed to accelerate the web and mobile application development. 
 
 W language is great fit for enterprise and mission critical applications which demand secure and safety-critical software components. W lang offers a readymade set of components which can be customized or developers can create new component from scratch. 
 
