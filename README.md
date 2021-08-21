@@ -1,9 +1,20 @@
 # W Lang
 
-W lang is Rapid Application Development programming language designed to accelerate the web and mobile application development. 
+W lang incapsulates the technology clutter for your development team and offers one simple programming language to develop either complex enterprise applications or applications for android, iOS or Web.
 
-W language is great fit for enterprise and mission critical applications which demand secure and safety-critical software components. W lang offers a readymade set of components which can be customized or developers can create new component from scratch. 
+W Lang is programming language for cloud computing allows you to rapidly design enterprise-ready apps faster at low cost.
 
+Automated out of the box connectors for different backend services such as Cache, databases, messaging, Key Value repository, notifications, search etc.
+
+W language is great fit for enterprise and mission critical applications which demand secure and safety-critical software components. W lang offers a readymade set of components which can be customized or developers can create new component from scratch.
+
+
+
+**Rapid Application Development**
+
+WLang is Rapid Application Development language for microservices architecture-based cloud native applications.
+
+W Lang is Rapid Application Development programming language designed to accelerate the web and mobile application development. 
 
 
 ****Easy to Learn**** 
@@ -43,4 +54,4 @@ With goal to achieve better control over requirements and delivery W lang was cr
 
 [W Lang Frequently Asked Questions](https://wlang.in/docs/help/faq/)
 
-[W lang Quick Start](https://wlang.in/docs/getting-started/quick-start/)
+[W Lang Quick Start](https://wlang.in/docs/getting-started/quick-start/)
