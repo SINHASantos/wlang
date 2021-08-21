@@ -2,9 +2,7 @@
 
 W lang incapsulates the technology clutter for your development team and offers one simple programming language to develop either complex enterprise applications or applications for android, iOS or Web.
 
-W Lang is programming language for cloud computing allows you to rapidly design enterprise-ready apps faster at low cost.
-
-Automated out of the box connectors for different backend services such as Cache, databases, messaging, Key Value repository, notifications, search etc.
+W Lang is programming language for cloud computing allows you to rapidly design enterprise-ready apps faster at low cost using automated out of the box connectors for different backend services such as Cache, databases, messaging, Key Value repository, notifications, search etc.
 
 W language is great fit for enterprise and mission critical applications which demand secure and safety-critical software components. W lang offers a readymade set of components which can be customized or developers can create new component from scratch.
 
