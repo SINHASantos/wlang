@@ -11,15 +11,16 @@ W language is great fit for enterprise and mission critical applications which d
 
 **Rapid Application Development**
 
-WLang is Rapid Application Development language for microservices architecture-based cloud native applications designed to accelerate the enterprise, web and mobile application development. 
+WLang is Rapid Application Development language designed to accelerate the enterprise, web and mobile application development.  It speeds the development time and reduces the time to market for any business to create MVP. 
 
+Remote teams can collaborate development and can work together on same code or project using Google Sheets or Microsoft Office 365.   
 
   
     
     
 ****Easy to Learn**** 
 
-W Lang is simple, intuitive and the most powerful programming language ever created. It requires developer with basic programming skills and dtabase concepts and uses spreadsheet as IDE to be able to deliver enterprise ready applications. 
+W Lang is simple, intuitive and the most powerful programming language ever created. It requires developer with basic programming skills and database concepts and uses spreadsheet as IDE to be able to deliver enterprise ready applications. 
 
 It  integrates Business Logic, Backend and User Interface development in very simple programming language.
   
@@ -29,7 +30,7 @@ It  integrates Business Logic, Backend and User Interface development in very si
 
 The W language can be used by kids who aspire to learn programming 
 
-Seasoned developers can use the W language to develop complex enterprise applications. Teams can collaborate using Google Sheets or Microsoft Office 365.   
+Seasoned developers can use the W language to develop complex enterprise applications. 
   
 ****Native Language**** 
 
