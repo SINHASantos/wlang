@@ -1,6 +1,6 @@
 # W Lang
 
-[W Lang](http://wlang.in) is the most simple and powerful programming language ever created.
+[W Lang](http://wlang.in) is simple, intuitive and the most powerful programming language ever created.
 W lang incapsulates the technology clutter for your development team and offers one simple programming language to develop either complex enterprise applications or applications for android, iOS or Web.
 
 W Lang is programming language for cloud computing allows you to rapidly design enterprise-ready apps faster at low cost using automated out of the box connectors for different backend services such as Cache, databases, messaging, Key Value repository, notifications, search etc.
@@ -21,7 +21,7 @@ W Lang is Rapid Application Development programming language designed to acceler
     
 ****Easy to Learn**** 
 
-W Lang is the most simple and powerful programming language ever created.
+W Lang is simple, intuitive and the most powerful programming language ever created. It needs basic programming skills and uses spreadsheet as IDE to be able to deliver enterprise ready applications.  
 
 It  integrates Business Logic, Backend and User Interface development in very simple programming language.
   
