@@ -48,11 +48,11 @@ With goal to achieve better control over requirements and delivery W lang was cr
   
   
 **W / Inventor**  
-**[Sinha Santosh](https://www.linkedin.com/in/infosinha/)**
+**[Sinha Santosh](https://github.com/SINHASantos/)**
 
 
 
-[Learn More](http://wlang.in)
+[Learn More](https://github.com/SINHASantos/)
 
 [W Lang Introduction](https://wlang.in/docs/getting-started/introduction/)
 
